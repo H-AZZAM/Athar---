@@ -9,43 +9,45 @@ An AI-powered software platform for the early screening and continuous monitorin
 
 
 > 👥 Team Members:
-Hana Mohamed Azzam
-Somaya Essam Eldin
-haya mohamed albardisi
-Habiba hatem salah eldeen
+
+Hana Mohamed Azzam / 
+Somaya Essam Eldin / 
+haya mohamed albardisi / 
+Habiba hatem salah eldeen / 
 Habiba Mazhar
 
 > 📎🎓 Instructor:
+
 Suzan Farahat
 
 > 🎯 Project Objectives:
 
-Develop interactive questionnaires and age-appropriate assessment games.
-Collect data related to communication, language, attention, and behavioral indicators.
-Apply machine learning models to analyze questionnaire responses and gameplay interactions.
-Provide specialists with structured assessment reports through a secure dashboard.
-Track children's developmental progress longitudinally.
-Generate personalized educational and developmental activity recommendations.
-Evaluate the system's accuracy, usability, and user satisfaction.
+Develop interactive questionnaires and age-appropriate assessment games. / 
+Collect data related to communication, language, attention, and behavioral indicators. / 
+Apply machine learning models to analyze questionnaire responses and gameplay interactions. / 
+Provide specialists with structured assessment reports through a secure dashboard. / 
+Track children's developmental progress longitudinally. / 
+Generate personalized educational and developmental activity recommendations. / 
+Evaluate the system's accuracy, usability, and user satisfaction. / 
 Support early awareness without providing formal medical diagnosis.
 
 
 > 📦 Project Scope :
 
 Included:
-Mobile application for parents.
-Interactive assessment games and questionnaires.
-AI/ML-based behavioral data analysis.
-Developmental progress tracking.
-Personalized activity recommendations.
-Web dashboard for specialists.
-Assessment reports and historical data visualization.
+Mobile application for parents. / 
+Interactive assessment games and questionnaires. / 
+AI/ML-based behavioral data analysis. / 
+Developmental progress tracking. / 
+Personalized activity recommendations. / 
+Web dashboard for specialists. / 
+Assessment reports and historical data visualization. / 
 User data management and secure access.
 
 Not Included:
-Formal medical diagnosis.
-Replacement of professional clinical assessment.
-Prescription or medical treatment.
+Formal medical diagnosis. / 
+Replacement of professional clinical assessment. / 
+Prescription or medical treatment. / 
 Autonomous clinical decision-making.
 
 
