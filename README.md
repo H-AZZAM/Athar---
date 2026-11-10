@@ -52,3 +52,5 @@ Autonomous clinical decision-making.
 
 
 > 📅 Project Plan (5 Weeks)
+
+>  Figma Link ( https://www.figma.com/design/f9vOxjrUeo4UnKr0dlukJ9/Athar?node-id=0-1&t=NZNwn1d8KemImBXk-1 )
